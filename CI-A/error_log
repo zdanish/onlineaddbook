@@ -1,0 +1,26 @@
+[30-Jan-2014 15:20:06 America/New_York] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/ccit1565/public_html/CI/application/views/blog_view.php on line 11
+[30-Jan-2014 15:21:49 America/New_York] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/ccit1565/public_html/CI/application/views/blog_view.php on line 11
+[30-Jan-2014 15:21:51 America/New_York] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/ccit1565/public_html/CI/application/views/blog_view.php on line 11
+[30-Jan-2014 15:43:46 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/ccit1565/public_html/CI/application/controllers/blog.php on line 5
+[30-Jan-2014 15:44:19 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/ccit1565/public_html/CI/application/controllers/blog.php on line 5
+[30-Jan-2014 15:45:14 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/ccit1565/public_html/CI/application/controllers/blog.php on line 5
+[30-Jan-2014 15:45:16 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/ccit1565/public_html/CI/application/controllers/blog.php on line 5
+[30-Jan-2014 15:45:58 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/ccit1565/public_html/CI/application/controllers/blog.php on line 5
+[30-Jan-2014 15:46:00 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/ccit1565/public_html/CI/application/controllers/blog.php on line 5
+[30-Jan-2014 15:46:02 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/ccit1565/public_html/CI/application/controllers/blog.php on line 5
+[30-Jan-2014 15:46:38 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/ccit1565/public_html/CI/application/controllers/blog.php on line 5
+[30-Jan-2014 15:46:42 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/ccit1565/public_html/CI/application/controllers/blog.php on line 5
+[30-Jan-2014 15:46:45 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/ccit1565/public_html/CI/application/controllers/blog.php on line 5
+[30-Jan-2014 15:46:53 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/ccit1565/public_html/CI/application/controllers/blog.php on line 5
+[30-Jan-2014 15:47:30 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/ccit1565/public_html/CI/application/controllers/blog.php on line 5
+[30-Jan-2014 15:47:39 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/ccit1565/public_html/CI/application/controllers/blog.php on line 5
+[30-Jan-2014 15:47:44 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/ccit1565/public_html/CI/application/controllers/blog.php on line 5
+[30-Jan-2014 15:49:08 America/New_York] PHP Fatal error:  Call to undefined method Blog_model::getPost() in /home/ccit1565/public_html/CI/application/controllers/blog.php on line 11
+[30-Jan-2014 16:28:07 America/New_York] PHP Fatal error:  Cannot redeclare admin::index() in /home/ccit1565/public_html/CI/application/controllers/Admin.php on line 15
+[30-Jan-2014 16:30:16 America/New_York] PHP Fatal error:  Call to a member function view() on a non-object in /home/ccit1565/public_html/CI/application/controllers/Admin.php on line 12
+[30-Jan-2014 17:00:12 America/New_York] PHP Fatal error:  Call to a member function helper() on a non-object in /home/ccit1565/public_html/CI/application/controllers/Admin.php on line 17
+[30-Jan-2014 17:01:32 America/New_York] PHP Fatal error:  Call to a member function helper() on a non-object in /home/ccit1565/public_html/CI/application/controllers/Admin.php on line 17
+[06-Feb-2014 15:59:55 America/New_York] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting '&' or variable (T_VARIABLE) in /home/ccit1565/public_html/CI/application/controllers/Admin.php on line 25
+[06-Feb-2014 15:59:55 America/New_York] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting '&' or variable (T_VARIABLE) in /home/ccit1565/public_html/CI/application/controllers/Admin.php on line 25
+[06-Feb-2014 17:41:49 America/New_York] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting '&' or variable (T_VARIABLE) in /home/ccit1565/public_html/CI/application/controllers/Admin.php on line 26
+[06-Feb-2014 17:41:50 America/New_York] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting '&' or variable (T_VARIABLE) in /home/ccit1565/public_html/CI/application/controllers/Admin.php on line 26
