@@ -1,0 +1,21 @@
+<?php
+$con=mysqli_connect("localhost","ccit1578","Olu12345","ccit1578_wordpress");
+// Check connection
+if (mysqli_connect_errno())
+  {
+  echo "Failed to connect to MySQL: " . mysqli_connect_error();
+  }
+
+
+
+
+mysqli_query($con,"UPDATE DATA SET name='$_GET[name]' WHERE ID='$_GET[id]'");
+mysqli_query($con,"UPDATE DATA SET num='$_GET[num]' WHERE ID='$_GET[id]'");
+mysqli_query($con,"UPDATE DATA SET email='$_GET[email]' WHERE ID='$_GET[id]'");
+
+echo "The entry has been updated.";
+
+mysqli_close($con);
+?>
+
+<a href="http://phoenix.sheridanc.on.ca/~ccit1578/phonebook">Go back to the phonebook</a>
