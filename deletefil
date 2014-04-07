@@ -1,0 +1,21 @@
+<link rel="stylesheet" type="text/css" href="style/style.css">
+<?php
+$con=mysqli_connect("localhost","ccit1578","Olu12345","ccit1578_wordpress");
+// Check connection
+if (mysqli_connect_errno())
+  {
+  echo "Failed to connect to MySQL: " . mysqli_connect_error();
+  }
+
+
+
+
+mysqli_query($con,"DELETE FROM DATA WHERE ID='$_GET[id]'");
+
+
+echo "Contact deleted.";
+
+mysqli_close($con);
+?>
+
+<center><a href="http://phoenix.sheridanc.on.ca/~ccit1578/phonebook">Go back to the phonebook</a></center>
