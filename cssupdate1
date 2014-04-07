@@ -1,0 +1,19 @@
+body{
+background-image:url(http://littleangelstudios.com/wp-content/uploads/2012/12/ivory-off-white-paper-texture.jpg);
+}
+
+
+h3{
+font-family: arial;
+font-size: 250%;
+color: #C28D61;
+}
+
+label{
+font-size: 115%;
+}
+
+table{
+font-family: arial, garamond, times new roman;7
+
+}
